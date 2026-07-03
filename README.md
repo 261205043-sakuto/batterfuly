@@ -91,7 +91,7 @@ top:470px;
 
 <div id="haikei">
 
-<img src="素材/bg0.png" class="bg" alt="背景">
+<img src="bg0.png" class="bg" alt="背景">
 
 <div id="moji">
 ぽかぽか陽気の穏やかな朝<br>
@@ -99,17 +99,22 @@ top:470px;
 
 </div>
 
-<img src="素材/butterfly.gif" class="butterfly" id="b1">
-<img src="素材/butterfly.gif" class="butterfly" id="b2">
-<img src="素材/butterfly.gif" class="butterfly" id="b3">
+<img src="butterfly.gif" class="butterfly" id="b1">
+<img src="butterfly.gif" class="butterfly" id="b2">
+<img src="butterfly.gif" class="butterfly" id="b3">
 
-<img src="素材/foo.gif" class="foo" id="f1">
-<img src="素材/foo.gif" class="foo" id="f2">
-<img src="素材/foo.gif" class="foo" id="f3">
-<img src="素材/foo.gif" class="foo" id="f4">
-<img src="素材/foo.gif" class="foo" id="f5">
+<img src="foo.gif" class="foo" id="f1">
+<img src="foo.gif" class="foo" id="f2">
+<img src="foo.gif" class="foo" id="f3">
+<img src="foo.gif" class="foo" id="f4">
+<img src="foo.gif" class="foo" id="f5">
 
 </div>
+
+</body>
+</html>
+
+
 
 </body>
 </html>
